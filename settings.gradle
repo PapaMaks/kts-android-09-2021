@@ -1,0 +1,2 @@
+rootProject.name = "Strava"
+include ':app'
